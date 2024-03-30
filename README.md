@@ -8,7 +8,7 @@ Project 1 :  CREATE LANDING PAGE
  mindful of CSS to avoid overlapping elements. In short, a landing page project allows you to apply
  HTML and CSS skills, encouraging your creativity while ensuring a visually appealing and user
 friendly design.
-![Alt text](C:\Users\Pooja\Desktop\Pooja🤞\web_development\landing.png)
+![landing](https://github.com/1appl/Web_Development/assets/103527305/a33acd36-033a-438d-947d-d78d2cb6cf03)
 
 
 Project 2:  CREATE CALCULATOR
